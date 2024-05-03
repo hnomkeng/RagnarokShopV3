@@ -1,7 +1,7 @@
 {
   "name": "RagnarokShop",
   "short_name": "RagnarokShop",
-  "description": "歡迎來到仙境傳說V3，這是一份VueCli3+Vuex電商前端練習V3版。",
+  "description": "ยินดีต้อนรับสู่ Ragnarok V3 นี่คือเวอร์ชัน V3 ของ VueCli3+Vuex e-commerce front-end Practice",
   "icons": [
     {
       "src": "./img/icons/192x192.png",
